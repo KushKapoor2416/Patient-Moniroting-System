@@ -30,6 +30,6 @@
 	<p>To run the web application, run the following command:</p>
 	<pre><code>streamlit run app.py</code></pre>
 	<p>Contributors</p>
-	<p>This project was developed by [YOUR NAME HERE]. If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.</p>
+	<p>This project was developed by Kush Kapoor. If you would like to contribute to the project, please fork the repository and submit a pull request with your changes.</p>
 </body>
 </html>
